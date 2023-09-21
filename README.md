@@ -18,6 +18,7 @@ I think you have to install the python package, if so then you can.
 ```
 - git clone https://github.com/DomathID/Dark-Bomb
 - cd Dark-BomB
+- pip install -r requirements.txt
 - python dark.py
 ```
 # FAQ
