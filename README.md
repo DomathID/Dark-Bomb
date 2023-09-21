@@ -1,4 +1,16 @@
-# Dark-Bomb
+<pre align='center'>
+▓█████▄  ▄▄▄       ██▀███   ██ ▄█▀    ▄▄▄▄    ▒█████   ███▄ ▄███▓ ▄▄▄▄   
+▒██▀ ██▌▒████▄    ▓██ ▒ ██▒ ██▄█▒    ▓█████▄ ▒██▒  ██▒▓██▒▀█▀ ██▒▓█████▄ 
+░██   █▌▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░    ▒██▒ ▄██▒██░  ██▒▓██    ▓██░▒██▒ ▄██
+░▓█▄   ▌░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄    ▒██░█▀  ▒██   ██░▒██    ▒██ ▒██░█▀  
+░▒████▓  ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄   ░▓█  ▀█▓░ ████▓▒░▒██▒   ░██▒░▓█  ▀█▓
+ ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒   ░▒▓███▀▒░ ▒░▒░▒░ ░ ▒░   ░  ░░▒▓███▀▒
+ ░ ▒  ▒   ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░   ▒░▒   ░   ░ ▒ ▒░ ░  ░      ░▒░▒   ░ 
+ ░ ░  ░   ░   ▒     ░░   ░ ░ ░░ ░     ░    ░ ░ ░ ░ ▒  ░      ░    ░    ░ 
+   ░          ░  ░   ░     ░  ░       ░          ░ ░         ░    ░      
+ ░                                         ░                           ░ 
+</pre>
+# Dark Bomb
 Dangerous Spam Tools that I think if you become one of the victims, you will be very worried. Because this sends various sources
 > I think the fire could die at any time,
 > and needs to be updated, or maybe add a specific header.
