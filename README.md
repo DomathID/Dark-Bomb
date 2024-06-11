@@ -28,3 +28,4 @@ I think you have to install the python package, if so then you can.
 - Yes, of course, because some api are made private, and that requires more skill, and to keep the api alive.
 # How To 
 - Donate enough, you'll get more features, and a private api
+- <a href="https://trakteer.id/bang-domath/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
